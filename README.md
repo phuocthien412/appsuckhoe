@@ -1,5 +1,6 @@
 NEED TO READ!!!
 # appsuckhoe
+CODE : IN lib folder
 =======
 # appsk2
 This is JUST front-end 
